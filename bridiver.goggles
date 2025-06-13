@@ -2,3 +2,17 @@
 ! description: Filter out low quality sites. Pseudo-science, etc...
 ! public: false
 ! author: Brian
+
+$discard,site=naturalnews.com
+$discard,site=infowars.com
+$discard,site=mercola.com
+$discard,site=foodbabe.com
+$discard,site=answersingenesis.org
+$discard,site=ageofautism.com
+
+$boost,site=PolitiFact.com
+$boost,site=FactCheck.org
+$boost,site=theconversation.com
+$boost,site=bbc.com
+$boost,site=livescience.com
+$boost,site=newscientist.com
