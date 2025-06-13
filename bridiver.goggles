@@ -1,0 +1,4 @@
+! name: Filter low quality sites
+! description: Filter out low quality sites. Pseudo-science, etc...
+! public: false
+! author: Brian
