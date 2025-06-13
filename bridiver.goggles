@@ -9,6 +9,8 @@ $discard,site=mercola.com
 $discard,site=foodbabe.com
 $discard,site=answersingenesis.org
 $discard,site=ageofautism.com
+$discard,site=naturalhealers.com
+$discard,site=henryford.com
 
 $boost,site=PolitiFact.com
 $boost,site=FactCheck.org
